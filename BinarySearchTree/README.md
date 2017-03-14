@@ -21,6 +21,3 @@ The following methods are implemented:
  - inOrderTraversal() - return a list of values representing the in-order traversal of the tree.
  - preOrderTraversal() - return a list of values representing the pre-order traversal of the tree.
  - postOrderTraversal() - return a list of values representing the post-order traversal of the tree.
-=======
-# Data-Structures
-Data Structures implemented in Java
