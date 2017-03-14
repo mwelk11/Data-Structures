@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # BST-Data-Structure
 
 Author: Matthew Welk
@@ -25,4 +24,3 @@ The following methods are implemented:
 =======
 # Data-Structures
 Data Structures implemented in Java
->>>>>>> 1323bf6f32d22682e0da16a7de23f8e5f3ddb84d
